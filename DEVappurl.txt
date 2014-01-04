@@ -1,1 +1,1 @@
-http://vollstart.de/foodcouponDEMO/index.html?mobileApp
+http://vollstart.de/foodcouponDEMO/index.html?mobileApp&domain=simplyeat.de
