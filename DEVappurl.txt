@@ -1,1 +1,1 @@
-http://vollstart.de/foodcouponDEMO/index.html?domain=simplyeat.de&sek=26&mobileApp
+http://vollstart.de/foodcouponDEMO/index.html?domain=simplyeat.de&mobileApp&sek=26
